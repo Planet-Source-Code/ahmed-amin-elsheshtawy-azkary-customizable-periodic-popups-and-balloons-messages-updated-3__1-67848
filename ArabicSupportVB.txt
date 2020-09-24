@@ -1,0 +1,11 @@
+Question 1: How can I develop an Arabic application using Visual Basic 6.0?
+
+Answer
+First, you need to install the Arabic language pack for Windows XP or Windows 2000, to be able to use the RightToLeft property. 
+On Windows 2000: "Regional Options" in the "General" tab, add Arabic to the "Language setting for the system"
+
+On Windows XP: "Regional and Language Options" go to the "Advanced" tab and change the "Language for non Unicode programs" to an Arabic language.
+
+PS. This will not affect the user interface language.
+
+http://www.microsoft.com/middleeast/msdn/faq.aspx
